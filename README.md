@@ -5,6 +5,8 @@
 
 Interactive [plot.ly](https://plotly.com/graphing-libraries/) graphs to compare your annual "Your Top 100 Songs" playlists
 
+**DISCLAIMER** The notebook prompts for access to read details about your Spotify playlists. These are not stored anywhere and deleted upon closing.
+
 ![Song Length Across Years](assets/plot%201.png)
 ![Song Occurance Flow(Chart)](assets/plot%202.png)
 ![Song Occurance Flow(Table)](assets/plot%203.png)

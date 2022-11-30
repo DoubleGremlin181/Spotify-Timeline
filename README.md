@@ -1,11 +1,11 @@
 # Spotify Timeline
+##### Interactive [plot.ly](https://plotly.com/graphing-libraries/) graphs to compare your annual "Your Top 100 Songs" playlists
 
 -------
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DoubleGremlin181/Spotify-Timeline/HEAD?labpath=Timeline%20Dashboard(Minimized).ipynb)
 
-Interactive [plot.ly](https://plotly.com/graphing-libraries/) graphs to compare your annual "Your Top 100 Songs" playlists
-
-**DISCLAIMER** The notebook prompts for access to read details about your Spotify playlists. These are not stored anywhere and deleted upon closing.
+Due to Spotify's restrictive API, you need to jump through a lot of hoops to view your own details in this dashboard. The easiest way is to follow the instructions on the notebook locally or via [Binder](https://mybinder.org/v2/gh/DoubleGremlin181/Spotify-Timeline/HEAD?labpath=Timeline%20Dashboard(Minimized).ipynb).  
 
 ![Song Length Across Years](assets/plot%201.png)
 ![Song Occurance Flow(Chart)](assets/plot%202.png)
